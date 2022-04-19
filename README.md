@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @n-mr - xiTalal 
+- 👋 Hi, I’m @n-mr - n-mr 
 - 👀 I’m interested in ... developer 
 - 🌱 I’m currently developing ... 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
-- 🌐 twitter: xiTalal 
+- 💞️ I’m looking to collaborate on ... me
+- 📫 How to reach me ... don't
+- 🌐 twitter: nooo 
