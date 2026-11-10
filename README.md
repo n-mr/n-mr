@@ -3,7 +3,6 @@
 - 🌱 I’m currently developing ... [**me**]
 - 💞️ I’m looking to collaborate on ... [**me**]
 - 📫 How to reach me ... [**don't**]
-- 🌐 twitter: [**nooo**]
 
 <div id="header" align="center">
  <img src="https://media2.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif?cid=ecf05e474u6ypsa3vutyr6p58wsnowinifkh8ybv9uxsygev&rid=giphy.gif&ct=s" width="200"/> <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=790b7611fbf3abf08251451da4b250a8d19d12364fa9e621&rid=giphy.gif&ct=ts" width="200"/> <img src="https://i.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.webp" width="200"/> <img src="https://media0.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=790b7611474fb2cac1d40ce52ff27473ac8ec3bf87b2eda6&rid=giphy.gif&ct=s" width="200"/> </div> </div>
